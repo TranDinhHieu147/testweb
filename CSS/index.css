@@ -28,6 +28,9 @@ button:hover{
 .clear{
     clear:both;
 }
+@media screen and(max-width: 1120px){
+    
+}
 h1{
     font-size: 3rem;
     color: black;
